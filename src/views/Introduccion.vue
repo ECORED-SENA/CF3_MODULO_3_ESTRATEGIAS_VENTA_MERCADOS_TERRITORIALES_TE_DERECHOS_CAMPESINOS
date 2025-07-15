@@ -10,7 +10,7 @@
 
     .fondo___color
       .px-5
-        p.mb-4 En el mercado campesino, cada producto que nace de la tierra, cada servicio que se ofrece con dedicación lleva consigo una historia de esfuerzo y amor por el campo. Para fortalecer nuestro mercado, es necesario entender cómo funciona nuestro entorno, cómo organizar mejor lo que ofrecemos, cómo hacer llegar nuestros productos a más personas, cómo atender de manera cordial a nuestros compradores y cómo mejorar cada día a partir de sus opiniones.
+        p.mb-4 En el mercado campesino, cada producto que nace de la tierra, cada servicio que se ofrece con dedicación, lleva consigo una historia de esfuerzo y amor por el campo. Para fortalecer nuestro mercado, es necesario entender cómo funciona nuestro entorno, cómo organizar mejor lo que ofrecemos, cómo hacer llegar nuestros productos a más personas, cómo atender de manera cordial a nuestros compradores y cómo mejorar cada día a partir de sus opiniones.
 
         .row.align-items-center.mb-5
           .col-xl

@@ -559,7 +559,7 @@
                 .col-auto
                   .py-2.px-3
                     h4.text-center Mejor capacitación
-                    p.mb-0 Posibilita el acceso a cursos, talleres y asesorías a través de alianzas con instituciones educativas u ONGs.
+                    p.mb-0 Posibilita el acceso a cursos, talleres y asesorías a través de alianzas con instituciones educativas u ONGS.
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
         .tarjeta-avatar

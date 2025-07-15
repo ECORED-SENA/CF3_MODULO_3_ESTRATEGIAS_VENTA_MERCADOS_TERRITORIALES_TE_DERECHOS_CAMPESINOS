@@ -279,7 +279,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img29.png', alt='' style="max-width: 500px").m-auto
 
-    h5.mb-5 Cada tipo de cliente tiene necesidades específicas. Por Ejemplo.
+    h5.mb-5 Cada tipo de cliente tiene necesidades específicas. Por ejemplo.
 
     .fondo___color
       .px-5
@@ -322,7 +322,7 @@
           .col
             h3 ¿Qué necesidades tienen las familias rurales?
 
-        p.mb-5 Cada familia rural tiene particularidades, pero existen necesidades comunes que permiten entender mejor qué buscan al acercarse al mercado campesino. Conocer estas necesidades facilitas preparar una oferta ajustada y garantiza que cada cliente encuentre lo que necesita.
+        p.mb-5 Cada familia rural tiene particularidades, pero existen necesidades comunes que permiten entender mejor qué buscan al acercarse al mercado campesino. Conocer estas necesidades facilita preparar una oferta ajustada y garantiza que cada cliente encuentre lo que necesita.
 
     .bg--img_03.mb-5
       .row.h-100.align-items-center
@@ -413,7 +413,7 @@
             <li class="mb-1"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Instituciones locales</strong>: alcaldías, juntas de acción comunal, iglesias o fundaciones que promueven el consumo local.</li>
             <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Clientes fieles</strong>: pueden recomendar el puesto a otros vecinos.</li>
           </ul>
-          p.mb-0 <strong>Ejemplo exitoso</strong>: En San Antonio, varios productores se unieron bajo una sola carpa en la feria dominical. Ofrecieron más variedad, redujeron costos de transporte y fortalecieron su imagen comunitaria.
+          p.mb-0 <strong>Ejemplo exitoso</strong>: en San Antonio, varios productores se unieron bajo una sola carpa en la feria dominical. Ofrecieron más variedad, redujeron costos de transporte y fortalecieron su imagen comunitaria.
     
     .fondo___color
       .px-5
@@ -449,7 +449,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Planificar la participación").ajuste-cajaAcordion
               p.mb-3 No basta con presentarse el día de la feria. Se debe preparar con anticipación lo que se llevará, asegurando variedad, frescura y buena presentación. 
-              p.mb-3 <strong>Ejemplo</strong>. Don Ramiro, productor de miel, aprovecha las ferias agrícolas preparando frascos pequeños, medianos y grandes. Así, quienes quieren solo probar, y quienes desean abastecerse, tienen opciones.
+              p.mb-3 <strong>Ejemplo</strong>. Don Ramiro, productor de miel, aprovecha las ferias agrícolas preparando frascos pequeños, medianos y grandes. Así, quienes quieren solo probar y quienes desean abastecerse tienen opciones.
             .row(titulo="Presentación del producto").ajuste-cajaAcordion
               p.mb-3 Un producto bien presentado se vende mejor. En un mercado donde muchos venden tomates, ¿qué hace que los suyos destaquen? Tal vez un empaque bonito, una caja limpia, o un cartel que indique que son tomates criados sin químicos.
               p.mb-5 <strong>Sugerencias útiles</strong>: - Limpiar y clasificar bien los productos. - Usar manteles coloridos y rústicos. - Tener precios visibles y claros.
@@ -458,7 +458,7 @@
               p.mb-5 <strong>Ejemplo</strong>. En la feria de San José, doña Elvia ofrece pequeñas degustaciones de su queso campesino a quien pasa frente a su mesa, lo que impulsa las ventas.
             .row(titulo="Ofertas especiales y promociones").ajuste-cajaAcordion
               p.mb-3  Pequeñas estrategias de venta pueden incrementar notablemente el interés del público.
-              p.mb-5 <strong>Ejemplo</strong>. - Ofrecer descuentos por compras en cantidad ("Lleve dos canastas de fresas y pague una rebaja especial"). - Hacer combos ("Combo para ensalada: lechuga + tomate + cebolla a precio reducido"). - Armar kits de regalo en fechas especiales como Día de la Madre o fiestas patronales.
+              p.mb-5 <strong>Ejemplo</strong>. Ofrecer descuentos por compras en cantidad ("Lleve dos canastas de fresas y pague una rebaja especial"). Hacer combos ("Combo para ensalada: lechuga + tomate + cebolla a precio reducido"). Armar kits de regalo en fechas especiales como Día de la Madre o fiestas patronales.
         .col-xl-auto
           figure(data-aos="fade-right").d-none.d-xl-block
             img(src="@/assets/curso/temas/img37.png", alt="" style="width: 382px").m-auto
@@ -472,7 +472,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Aprovechar el flujo de personas").ajuste-cajaAcordion
               p.mb-3  No todas las personas compran en el momento, pero muchas se interesan en el producto. Es importante dejarles una forma de contacto.
-              p.mb-3 <strong>Sugerencias</strong>. - Entregar tarjetas sencillas hechas a mano con el nombre del productor, los productos que ofrece y un número de contacto. - Anotar a clientes interesados para futuras entregas a domicilio o pedidos especiales.
+              p.mb-3 <strong>Sugerencias</strong>. Entregar tarjetas sencillas hechas a mano con el nombre del productor, los productos que ofrece y un número de contacto. Anotar a clientes interesados para futuras entregas a domicilio o pedidos especiales.
             .row(titulo="Observar y aprender").ajuste-cajaAcordion
               p.mb-3  Cada feria enseña algo nuevo. Observar qué productos se venden más, qué tipo de compradores asisten y cómo organizan sus puestos otros vendedores permite mejorar constantemente. Esto también ayuda a anticipar tendencias de consumo y adaptarse a las preferencias del público. 
             .row(titulo="Mostrar identidad y origen").ajuste-cajaAcordion
@@ -521,7 +521,7 @@
               .col-xl-6.mb-4
                 h4 Mercados territoriales
                 p.mb-3 Son espacios que integran economía, cultura y tejido social. Van más allá de la transacción comercial y promueven relaciones solidarias, identidad cultural y desarrollo endógeno del territorio.
-                p.mb-3  <strong>Características</strong>: soberanía alimentaria, diversidad cultural, pedagogía comunitaria, reconocimiento del trabajo
+                p.mb-3  <strong>Características</strong>: soberanía alimentaria, diversidad cultural, pedagogía comunitaria, reconocimiento del trabajo.
                 p.mb-0 <strong>Ejemplo</strong>. En San Andrés, el mercado territorial incluye venta de productos, talleres de cocina tradicional, música campesina y exposiciones artesanales.
               .col-xl-6
                 figure.d-none.d-xl-block

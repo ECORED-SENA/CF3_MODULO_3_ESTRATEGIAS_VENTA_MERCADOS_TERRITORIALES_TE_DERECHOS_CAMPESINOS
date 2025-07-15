@@ -29,7 +29,7 @@
           .col
             h3 ¿Cómo saber qué productos son los adecuados?
 
-        p.mb-5 El primer paso es observar la demanda: ¿qué compran con mayor frecuencia las familias, comerciantes o instituciones locales? Esta información se puede obtener prestando atención durante las ferias, conversando directamente con los clientes o intercambiando experiencias con otros productores.
+        p.mb-5 El primer paso es observar la demanda: ¿qué compran con mayor frecuencia las familias, comerciantes o instituciones locales? esta información se puede obtener prestando atención durante las ferias, conversando directamente con los clientes o intercambiando experiencias con otros productores.
 
         h4.mb-5 A continuación, se presentan los criterios clave para seleccionar productos:
 
@@ -40,7 +40,7 @@
                 .row.h-100.justify-content-center.align-items-center
                   .col-xl-6.mb-4
                     h4 Frecuencia de consumo
-                    p.mb-3 Priorizar productos que las familias compran con regularidad
+                    p.mb-3 Priorizar productos que las familias compran con regularidad.
                     p.mb-0 <strong>Ejemplo</strong>. Papa, plátano, cebolla y arroz son alimentos básicos en la dieta rural.
                   .col-xl-6
                     figure.d-none.d-xl-block
@@ -214,7 +214,7 @@
             <ul class="fa-ul mb-0 estilo___ul_1">
               <li class="mb-3"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Definir con claridad lo que se ofrece</strong>: especificar condiciones, precios (si los hay), horarios y zonas de cobertura. <strong>Ejemplo</strong>. “Entregas a domicilio solo los sábados en la mañana dentro del corregimiento.”</li>
               <li class="mb-3"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Prepararse adecuadamente</strong>: si se promete un servicio, debe cumplirse con calidad y puntualidad. La confianza se construye con responsabilidad.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>Coordinar recursos humanos y logísticos: puede requerirse apoyo de familiares, vecinos o aliados para responder con eficacia.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Coordinar recursos humanos y logísticos</strong>: puede requerirse apoyo de familiares, vecinos o aliados para responder con eficacia.</li>
             </ul>
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
@@ -560,7 +560,7 @@
               p.mb-3 Un puesto variado satisface varias necesidades y capta más atención.
               p.mb-5 <strong>Ejemplo</strong>. Don Ernesto, que vendía solo plátanos, incluyó miel casera y café. Así, sus clientes terminaron comprando más de un producto.
             .row(titulo="Protección ante pérdidas").ajuste-cajaAcordion
-              p.mb-3 Si una cosecha falla, otros productos pueden sostener los ingresos
+              p.mb-3 Si una cosecha falla, otros productos pueden sostener los ingresos.
               p.mb-3 <strong>Ejemplo</strong>. Si el tomate se pierde por exceso de lluvia, aún pueden vender lechuga, yuca o habichuelas.
             .row(titulo="Aprovechamiento de recursos naturales").ajuste-cajaAcordion
               p.mb-3 Las fincas pueden adaptarse a diferentes cultivos en distintos espacios.
@@ -581,7 +581,7 @@
       .col
         h3 ¿Qué combinaciones de productos funcionan bien?
 
-    p.mb-5 Diversificar también implica pensar en combinaciones inteligentes. Algunos productos se complementan naturalmente y, al ofrecidos juntos, generan más valor. Aquí algunos ejemplos de combinaciones útiles para el mercado campesino.
+    p.mb-5 Diversificar también implica pensar en combinaciones inteligentes. Algunos productos se complementan naturalmente y, al ser ofrecidos juntos, generan más valor. Aquí algunos ejemplos de combinaciones útiles para el mercado campesino.
     
     .row.justify-content-center.mb-5
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
@@ -628,7 +628,7 @@
                     h4 Agrícolas + plantas medicinales u ornamentales
                     p.mb-0 Al lado de los tomates, vender pequeñas matas de albahaca en macetas recicladas. 
     
-    p.mb-5 <strong>Caso destacado</strong>. En el Mercado Campesino La Unión, varios productores ampliaron su oferta para incluir huevos criollos, miel, arequipe y plantas medicinales, además de hortalizas. Esta diversificación convirtió su espacio en un punto de encuentro más atractivo, incrementando sus ingresos y el interés de la comunidad.
+    p.mb-5 <strong>Caso destacado</strong>. En el mercado campesino La Unión, varios productores ampliaron su oferta para incluir huevos criollos, miel, arequipe y plantas medicinales, además de hortalizas. Esta diversificación convirtió su espacio en un punto de encuentro más atractivo, incrementando sus ingresos y el interés de la comunidad.
 
     .row.justify-content-center.mb-5
       .col-xl-10
