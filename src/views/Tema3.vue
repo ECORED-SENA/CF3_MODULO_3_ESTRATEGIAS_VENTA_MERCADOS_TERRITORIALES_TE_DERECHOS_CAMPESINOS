@@ -172,8 +172,8 @@
 
     figure(data-aos="zoom-in")
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.mb-5 Video:  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/KZ_T1C88uCU" title="El voz a voz: La mejor publicidad rural" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.mb-5 Video: El voz a voz: La mejor publicidad rural
 
     p.mb-5 <strong>Ejemplo</strong>. En la vereda Santa Bárbara, don Enrique, que vendía café tostado, nunca gastó dinero en publicidad. Cada cliente que quedaba satisfecho les recomendaba a tres o cuatro vecinos. En menos de seis meses, tenía pedidos no solo de su vereda, sino también de corregimientos vecinos, gracias únicamente al voz a voz.
 
