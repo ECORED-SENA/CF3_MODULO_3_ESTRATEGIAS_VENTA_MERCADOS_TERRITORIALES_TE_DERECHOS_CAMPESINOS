@@ -57,7 +57,9 @@
                         img(src='@/assets/curso/temas/img6.svg', alt="" style="max-width: 85px").m-auto
                     p.mb-0 Productos transformados, como arequipe, bocadillos o quesos elaborados en las fincas de la región.
 
-        p.mb-5 Una de las características fundamentales de estos mercados es la eliminación de intermediarios. Esto permite que el dinero pagado por quien compra vaya directamente a quien cultiva o fabrica el producto, fortaleciendo así la economía local. Además, estos mercados permiten preservar saberes tradicionales que tienden a desaparecer con la industrialización, como la siembra de maíz criollo o la preparación de arepas en fogón de leña. Así, no solo se comercializa un alimento, sino que se transmite historia, cultura e identidad. A continuación se presentan las características esenciales de un mercado territorial campesino:
+        p.mb-4 Una de las características fundamentales de estos mercados es la eliminación de intermediarios. Esto permite que el dinero pagado por quien compra vaya directamente a quien cultiva o fabrica el producto, fortaleciendo así la economía local. Además, estos mercados permiten preservar saberes tradicionales que tienden a desaparecer con la industrialización, como la siembra de maíz criollo o la preparación de arepas en fogón de leña. Así, no solo se comercializa un alimento, sino que se transmite historia, cultura e identidad. A continuación se presentan las características esenciales de un mercado territorial campesino:
+
+        p.mb-5 La venta de animales vivos o congelados, así como de productos cárnicos procesados (por ejemplo, carne oreada, chorizos o gelatina de pata), está regulada por entidades de control en los ámbitos local y nacional. Estas disposiciones señalan lugares específicos y autorizados que deben cumplir con los requisitos legales y sanitarios establecidos para su comercialización.
 
     .row.mb-5.justify-content-center
       .col-xl-4(data-aos="zoom-in")
@@ -102,64 +104,62 @@
 
         p.mb-5 Además, cada productor ofrece una gran variedad de artículos, lo que enriquece la experiencia de compra:
 
-        .row.justify-content-center.mb-5
-          .col-xl-10
-            .row.align-items-center.m-0
-              .col-xl.style___box_7(data-aos="fade-right")
-                <ul class="fa-ul mb-0 estilo___ul">
-                  <li class="mb-3 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Derivados alimenticios como arequipe, queso artesanal, yogur casero y dulces típicos.</li>
-                  <li class="mb-3 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Productos de cuidado personal como jabones naturales elaborados con plantas locales.</li>
-                  <li class="mb-0 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Productos de cuidado personal como jabones naturales elaborados con plantas locales.</li>
-                </ul>
-              .col-xl-auto(data-aos="fade-left")
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 295px").m-auto
+        .row.align-items-center.m-0.mb-5
+          .col-xl.style___box_7(data-aos="fade-right")
+            <ul class="fa-ul mb-0 estilo___ul">
+              <li class="mb-3 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Derivados alimenticios como arequipe, queso artesanal, yogur casero y dulces típicos.</li>
+              <li class="mb-3 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Productos de cuidado personal como jabones naturales elaborados con plantas locales.</li>
+              <li class="mb-0 estilo___li_fondo"><span class="fa-li"><i class="fas fa-leaf"></i></span>Artesanías representativas de la tradición campesina, como sombreros, mochilas o tapetes.</li>
+            </ul>
+          .col-xl-auto(data-aos="fade-left")
+            figure.d-none.d-xl-block
+              img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 295px").m-auto
         
         p.mb-5 A continuación se sintetizan las principales características en la siguiente tabla:
 
-    .fondo___slider.mb-5
-      .px-5
-        .ajuste-slider(data-aos="zoom-in")
-          SlyderA(tipo="b")
-            .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
-                h4 Frescura y temporalidad
-                p.mb-0 Los productos son cosechados poco antes de su venta, sin largos procesos de almacenamiento ni transporte.
-              .col-xl-6
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img12.png', alt='' style="max-width: 500px").m-auto
-            
-            .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
-                h4 Diversidad de productos
-                p.mb-0 Incluyen alimentos frescos, transformados, artículos de higiene y artesanías tradicionales.
-              .col-xl-6
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img13.png', alt='' style="max-width: 500px").m-auto
+        .fondo___slider.mb-5
+          .px-5
+            .ajuste-slider(data-aos="zoom-in")
+              SlyderA(tipo="b")
+                .row.h-100.justify-content-center.align-items-center
+                  .col-xl-6.mb-4
+                    h4 Frescura y temporalidad
+                    p.mb-0 Los productos son cosechados poco antes de su venta, sin largos procesos de almacenamiento ni transporte.
+                  .col-xl-6
+                    figure.d-none.d-xl-block
+                      img(src='@/assets/curso/temas/img12.png', alt='' style="max-width: 500px").m-auto
+                
+                .row.h-100.justify-content-center.align-items-center
+                  .col-xl-6.mb-4
+                    h4 Diversidad de productos
+                    p.mb-0 Incluyen alimentos frescos, transformados, artículos de higiene y artesanías tradicionales.
+                  .col-xl-6
+                    figure.d-none.d-xl-block
+                      img(src='@/assets/curso/temas/img13.png', alt='' style="max-width: 500px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
-                h4 Relación directa y de confianza
-                p.mb-0 El comprador puede conversar con el productor sobre métodos de cultivo, elaboración y calidad de los productos.
-              .col-xl-6
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img14.png', alt='' style="max-width: 500px").m-auto
+                .row.h-100.justify-content-center.align-items-center
+                  .col-xl-6.mb-4
+                    h4 Relación directa y de confianza
+                    p.mb-0 El comprador puede conversar con el productor sobre métodos de cultivo, elaboración y calidad de los productos.
+                  .col-xl-6
+                    figure.d-none.d-xl-block
+                      img(src='@/assets/curso/temas/img14.png', alt='' style="max-width: 500px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
-                h4 Precios justos
-                p.mb-0 Al no haber intermediarios, el productor recibe una mejor retribución y el consumidor paga un precio razonable.
-              .col-xl-6
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img15.png', alt='' style="max-width: 500px").m-auto
+                .row.h-100.justify-content-center.align-items-center
+                  .col-xl-6.mb-4
+                    h4 Precios justos
+                    p.mb-0 Al no haber intermediarios, el productor recibe una mejor retribución y el consumidor paga un precio razonable.
+                  .col-xl-6
+                    figure.d-none.d-xl-block
+                      img(src='@/assets/curso/temas/img15.png', alt='' style="max-width: 500px").m-auto
 
-            .row.h-100.justify-content-center.align-items-center
-              .col-xl-6.mb-4
-                h4 Espacios vivos de cultura
-                p.mb-0 Se integran expresiones culturales como música, gastronomía y festividades locales que fortalecen la identidad.
-              .col-xl-6
-                figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img16.png', alt='' style="max-width: 500px").m-auto
+                .row.h-100.justify-content-center.align-items-center
+                  .col-xl-6.mb-4
+                    h4 Espacios vivos de cultura
+                    p.mb-0 Se integran expresiones culturales como música, gastronomía y festividades locales que fortalecen la identidad.
+                  .col-xl-6
+                    figure.d-none.d-xl-block
+                      img(src='@/assets/curso/temas/img16.png', alt='' style="max-width: 500px").m-auto
 
     p.mb-5 <strong>Por ejemplo</strong>, en un mercado campesino es habitual escuchar preguntas como: <strong>“¿Qué abono utilizó?”, “¿Esta miel es pura?”, “¿Hace cuánto cosechó esto?”</strong>. Y quien vende responde con honestidad, fortaleciendo un vínculo de credibilidad que fideliza al cliente.
 
@@ -441,7 +441,7 @@
           .col
             h3 Cómo aprovechar las ferias y mercados locales
 
-        p.mb-5 Las ferias y mercados locales representan verdaderas ventanas de oportunidad para el productor campesino. No se trata simplemente de asistir para vender, sino de participar de forma activa, preparada y estratégica. Esto puede marcar una gran diferencia en las ventas, en la visibilidad del emprendimiento y en el fortalecimiento de los lazos con la comunidad.
+        p.mb-5 Las ferias y mercados locales representan verdaderas ventanas de oportunidad para el productor campesino. No se trata simplemente de asistir para vender, sino de participar de forma activa, preparada y estratégica. Esto puede marcar una gran diferencia en las ventas, en la visibilidad de la cultura, las habilidades campesinas y en el fortalecimiento de los lazos con la comunidad.
     
     .bg--img_03.mb-5
       .row.h-100.align-items-center

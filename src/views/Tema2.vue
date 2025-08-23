@@ -87,9 +87,9 @@
         p.mb-5 Además de productos alimenticios, también es importante considerar la oferta de servicios rurales que respondan a otras necesidades de la comunidad:
 
         .row.justify-content-center
-          .col-xl-8
+          .col-xl-10
             .row.justify-content-center.mb-5
-              .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+              .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/img49.svg' alt="" )
                   .tarjeta.color-primario
@@ -99,7 +99,7 @@
                           .py-2.px-3
                             p.mb-0 Alquiler de herramientas agrícolas.
               
-              .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+              .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/img50.svg' alt="" )
                   .tarjeta.color-primario
@@ -109,7 +109,7 @@
                           .py-2.px-3
                             p.mb-0 Venta de semillas locales.
               
-              .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+              .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/img51.svg' alt="" )
                   .tarjeta.color-primario
@@ -118,6 +118,16 @@
                         .col-auto
                           .py-2.px-3
                             p.mb-0 Servicios de siembra o mantenimiento de huertas.
+              
+              .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
+                .tarjeta-avatar
+                  img(src='@/assets/curso/temas/img178.svg' alt="" )
+                  .tarjeta.color-primario
+                    .p-4
+                      .row.justify-content-center.mb-3
+                        .col-auto
+                          .py-2.px-3
+                            p.mb-0 Experienciales, turismo comunitario, servicios ambientales locales.
 
         .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
           .col-lg-auto
@@ -376,6 +386,10 @@
               <li class="mb-3"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Genera mayores ingresos</strong>, al poder venderse a un precio superior.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Abre nuevos mercados</strong>, especialmente con productos listos para el consumo o con presentaciones llamativas.</li>
             </ul>
+
+    p.mb-4 Se entiende como una estrategia orientada a aprovechar de manera sostenible los recursos naturales o culturales de las comunidades, con el fin de generar beneficios económicos y sociales que fomenten el interés por valorarlos y preservarlos.
+
+    p.mb-4 Una cadena de valor se define como el conjunto de actividades necesarias para llevar un producto o servicio desde su concepción, pasando por las etapas intermedias de producción y distribución, hasta llegar al consumidor final y su disposición posterior al uso. Estas actividades pueden desarrollarse dentro de una sola empresa o distribuirse entre varias, ya sea en una misma ubicación geográfica o en distintas regiones. (Coopermondo, 2021).
 
     p.mb-5 A continuación, se presentan algunas estrategias sencillas que ayudan a agregar valor a lo que se produce.
 
