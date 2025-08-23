@@ -297,6 +297,22 @@ export default {
         'Téllez Silva, J. M., et al. (2024). Propuesta metodológica con enfoque territorial para analizar la participación social en programas de abastecimiento alimentario. Agroalimentaria, 20(38), 15 - 33.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=9563701',
     },
+    {
+      referencia:
+        'Alcaldía Mayor de Bogotá, D.C. - Secretaría Jurídica Distrital. (2021, 13 de febrero). Acuerdo 801 de 2021: Por el cual se prohíbe la comercialización de animales vivos en plazas de mercado, se regula su comercialización en otros establecimientos y se dictan otras disposiciones. Registro Distrital No. 7051. ',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=65545 ',
+    },
+    {
+      referencia:
+        'Coopermondo. (2021). Módulo 3. Cooperativas y el Desarrollo local. Sesión 5. Cadena de valor, evaluación y oportunidades de gestión para proyectos. SENA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pérez, A. (2020). El valor agregado comunitario: una estrategia para impulsar el desarrollo económico local. Revista de Economía y Desarrollo Regional, 15(2), 45-62. ',
+      link: '',
+    },
   ],
   creditos: [
     {

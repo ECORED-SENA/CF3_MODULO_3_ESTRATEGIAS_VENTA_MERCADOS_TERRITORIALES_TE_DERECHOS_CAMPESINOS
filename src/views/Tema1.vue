@@ -61,7 +61,7 @@
 
         p.mb-4 La venta de animales vivos o congelados, así como de productos cárnicos procesados (por ejemplo, carne oreada, chorizos o gelatina de pata), está regulada por entidades de control en los ámbitos local y nacional. Estas disposiciones señalan lugares específicos y autorizados que deben cumplir con los requisitos legales y sanitarios establecidos para su comercialización.
 
-        p.mb-4 A continuación se presentan las características esenciales de un mercado territorial campesino:
+        p.mb-4 A continuación, se presentan las características esenciales de un mercado territorial campesino:
 
     .row.mb-5.justify-content-center
       .col-xl-4(data-aos="zoom-in")
@@ -117,7 +117,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img10.png', alt='' style="max-width: 295px").m-auto
         
-        p.mb-5 A continuación se sintetizan las principales características en la siguiente tabla:
+        p.mb-5 A continuación, se sintetizan las principales características en la siguiente tabla:
 
         .fondo___slider.mb-5
           .px-5
@@ -366,7 +366,7 @@
                 figure.d-none.d-xl-block(data-aos="fade-right")
                   img(src="@/assets/curso/temas/img34.png" style="max-width: 220px").m-auto
               .col
-                h4.mb-4 Lo invitamos a escuchar el siguiente <em>Podcast</em>:
+                h4.mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
                 TarjetaAudio.color-acento-contenido.mb-3(
                   texto="Análisis del entorno local"
                   :audio="require('@/assets/componentes/audios/Podcast01_CF03_Modulo_3_Economia_campesina_Tecnico_Derecho_campesinos.mp3')"
@@ -503,7 +503,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Circuitos alimentarios de proximidad, mercados territoriales y abastecimiento
 
-    p.mb-5 Estos tres conceptos son fundamentales para fortalecer los sistemas alimentarios locales, promover la economía campesina y garantizar el acceso a alimentos sanos, frescos y culturalmente apropiados. A continuación se presentan sus características principales:
+    p.mb-5 Estos tres conceptos son fundamentales para fortalecer los sistemas alimentarios locales, promover la economía campesina y garantizar el acceso a alimentos sanos, frescos y culturalmente apropiados. A continuación, se presentan sus características principales:
 
     .fondo___slider
       .px-5

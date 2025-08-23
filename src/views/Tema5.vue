@@ -216,9 +216,6 @@
     
     p.mb-0 <strong>Lograr la satisfacción del cliente y apostar por la mejora continua es sembrar futuro</strong>. Cada cliente contento es una semilla de confianza, recomendación y crecimiento para la familia, la comunidad y el mercado campesino. Escuchar, adaptarse, mejorar y servir con amor al trabajo rural es la fórmula más segura para hacer florecer los sueños y las cosechas.
 
-
-
-
 </template>
 
 <script>
