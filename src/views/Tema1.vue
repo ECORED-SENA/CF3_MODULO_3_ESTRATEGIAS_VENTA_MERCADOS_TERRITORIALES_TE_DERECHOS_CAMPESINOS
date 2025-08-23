@@ -57,9 +57,11 @@
                         img(src='@/assets/curso/temas/img6.svg', alt="" style="max-width: 85px").m-auto
                     p.mb-0 Productos transformados, como arequipe, bocadillos o quesos elaborados en las fincas de la región.
 
-        p.mb-4 Una de las características fundamentales de estos mercados es la eliminación de intermediarios. Esto permite que el dinero pagado por quien compra vaya directamente a quien cultiva o fabrica el producto, fortaleciendo así la economía local. Además, estos mercados permiten preservar saberes tradicionales que tienden a desaparecer con la industrialización, como la siembra de maíz criollo o la preparación de arepas en fogón de leña. Así, no solo se comercializa un alimento, sino que se transmite historia, cultura e identidad. A continuación se presentan las características esenciales de un mercado territorial campesino:
+        p.mb-4 Una de las características fundamentales de estos mercados es la eliminación de intermediarios. Esto permite que el dinero pagado por quien compra vaya directamente a quien cultiva o fabrica el producto, fortaleciendo así la economía local. Además, estos mercados permiten preservar saberes tradicionales que tienden a desaparecer con la industrialización, como la siembra de maíz criollo o la preparación de arepas en fogón de leña. Así, no solo se comercializa un alimento, sino que se transmite historia, cultura e identidad.
 
-        p.mb-5 La venta de animales vivos o congelados, así como de productos cárnicos procesados (por ejemplo, carne oreada, chorizos o gelatina de pata), está regulada por entidades de control en los ámbitos local y nacional. Estas disposiciones señalan lugares específicos y autorizados que deben cumplir con los requisitos legales y sanitarios establecidos para su comercialización.
+        p.mb-4 La venta de animales vivos o congelados, así como de productos cárnicos procesados (por ejemplo, carne oreada, chorizos o gelatina de pata), está regulada por entidades de control en los ámbitos local y nacional. Estas disposiciones señalan lugares específicos y autorizados que deben cumplir con los requisitos legales y sanitarios establecidos para su comercialización.
+
+        p.mb-4 A continuación se presentan las características esenciales de un mercado territorial campesino:
 
     .row.mb-5.justify-content-center
       .col-xl-4(data-aos="zoom-in")
