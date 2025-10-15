@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXXXXXX_MODULO_3_CF03_DU.pdf',
+        download: 'downloads/212500_MODULO_3_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -181,7 +181,7 @@ export default {
     {
       tema: 'Caracterización del mercado territorial campesino',
       referencia:
-        'Colombia Sí es Solidaria. (). Así funcionan los mercados campesinos. [Archivo de video] Youtube.',
+        'Colombia Sí es Solidaria. (2022). Así funcionan los mercados campesinos. [Archivo de video] Youtube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=DcRMpi4CibA&ab_channel=ColombiaS%C3%ADesSolidaria',
@@ -301,7 +301,7 @@ export default {
       referencia:
         'Alcaldía Mayor de Bogotá, D.C. - Secretaría Jurídica Distrital. (2021, 13 de febrero). Acuerdo 801 de 2021: Por el cual se prohíbe la comercialización de animales vivos en plazas de mercado, se regula su comercialización en otros establecimientos y se dictan otras disposiciones. Registro Distrital No. 7051. ',
       link:
-        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=65545 ',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=107366',
     },
     {
       referencia:

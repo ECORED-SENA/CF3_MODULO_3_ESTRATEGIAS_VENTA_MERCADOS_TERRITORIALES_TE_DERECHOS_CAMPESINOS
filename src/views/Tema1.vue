@@ -366,7 +366,7 @@
                 figure.d-none.d-xl-block(data-aos="fade-right")
                   img(src="@/assets/curso/temas/img34.png" style="max-width: 220px").m-auto
               .col
-                h4.mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
+                h4.mb-4 Lo invitamos a escuchar el siguiente Pódcast:
                 TarjetaAudio.color-acento-contenido.mb-3(
                   texto="Análisis del entorno local"
                   :audio="require('@/assets/componentes/audios/Podcast01_CF03_Modulo_3_Economia_campesina_Tecnico_Derecho_campesinos.mp3')"

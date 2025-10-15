@@ -259,7 +259,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src="@/assets/curso/temas/img34.png" style="max-width: 220px").m-auto
           .col
-            h4.mb-4 Lo invitamos a escuchar el siguiente <em>Podcast</em>:
+            h4.mb-4 Lo invitamos a escuchar el siguiente Pódcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Redes sociales para productos del campo"
               :audio="require('@/assets/componentes/audios/Podcast02_CF03_Modulo_3_Economia_campesina_Tecnico_Derecho_campesinos.mp3')"
@@ -559,7 +559,7 @@
                 .col-auto
                   .py-2.px-3
                     h4.text-center Mejor capacitación
-                    p.mb-0 Posibilita el acceso a cursos, talleres y asesorías a través de alianzas con instituciones educativas u ONGS.
+                    p.mb-0 Posibilita el acceso a cursos, talleres y asesorías a través de alianzas con instituciones educativas u ONG.
 
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="zoom-in")
         .tarjeta-avatar
@@ -606,7 +606,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/img140.svg' style="max-width: 90px").m-auto
-            h4.mb-3.estilo-text Organizaciones no gubernamentales (ONGs)
+            h4.mb-3.estilo-text Organizaciones no gubernamentales (ONG)
             p.mb-0 Obtener acompañamiento técnico, formación y apoyo comercial.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
